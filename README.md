@@ -6,12 +6,13 @@
 
 1. [光照学习路线](unreal-lighting/00-roadmap.md)：七个主题的学习顺序、基础分类与技术边界。
 2. [第 1 章：光照基础与 PBR](unreal-lighting/01-pbr-basics.md)：从一个像素的颜色理解光照、材质与成像处理。
-3. [练习 01：金属与非金属材质球](unreal-lighting/exercises/01-material-spheres.md)：控制变量的建议实验与待填写记录。
-4. [图片目录说明](unreal-lighting/images/README.md)：后续截图的保存和标注方式。
+3. [第 2 章：直接光与阴影](unreal-lighting/02-direct-light-and-shadows.md)：光源、衰减、Shadow Map、CSM、VSM、移动性与移动端取舍。
+4. [练习 01：金属与非金属材质球](unreal-lighting/exercises/01-material-spheres.md)：控制变量的建议实验与待填写记录。
+5. [图片目录说明](unreal-lighting/images/README.md)：后续截图的保存和标注方式。
 
 ## 当前内容范围
 
-已整理学习路线和第 1 章完整内容。路线中其余章节是后续学习主题，尚未在此提供正文。材质球练习是建议方案，尚未执行；图片目录目前没有实验截图。
+已整理学习路线和第 1、2 章完整内容。第 3 至第 7 章是后续学习主题，尚未在此提供正文。第 2 章内含四个待执行的控制实验。材质球练习是建议方案，尚未执行；图片目录目前没有实验截图。
 
 正文保留参考资料链接。UE 功能和具体设置应结合实际使用的引擎版本、平台与渲染路径核对。第 1 章主要讨论常见不透明表面的传统 Default Lit 金属度工作流，并说明与 Substrate 的接口边界。
 
