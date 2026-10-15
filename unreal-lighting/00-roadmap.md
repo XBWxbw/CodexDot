@@ -47,5 +47,6 @@
 ## 开始学习
 
 - [第 1 章：光照基础与 PBR](01-pbr-basics.md)
+- [第 2 章：直接光与阴影](02-direct-light-and-shadows.md)
 - [练习 01：金属与非金属材质球](exercises/01-material-spheres.md)
 - [返回仓库首页](../README.md)
